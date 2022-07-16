@@ -16,4 +16,4 @@
 - Build and Run using Xcode 14 and iOS 16 devices with A12 Bionic CPU and later
 
 ## YouTube Tutorial
-- You can also follow the tutorial video at [XCA YouTube Channel](https://youtu.be/QQjLOlkxpvc)
+- You can also follow the tutorial video at [XCA YouTube Channel](https://youtu.be/3HrOd840KpA)
