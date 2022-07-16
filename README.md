@@ -1,4 +1,4 @@
-# Live Barcode & Text Scanner iOS SwiftUI App with VisionKit
+# Live Barcode/Text Scanner & Interaction iOS/macOS SwiftUI App with VisionKit
 
 ![Alt text](./promo.jpg "Live Barcode & Text Scanner iOS SwiftUI App with VisionKit")
 
@@ -10,6 +10,7 @@
 ## Requierements
 - Xcode 14
 - iPhone with A12 Bionic CPU and later running iOS 16 
+- macOS 13 Venture (for macOS app)
 
 ## Installation
 - Build and Run using Xcode 14 and iOS 16 devices with A12 Bionic CPU and later
